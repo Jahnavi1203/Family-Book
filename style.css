@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color:burlywood;
+}
+h1{
+   background-color: cadetblue; 
+}
+img{
+    width:270px;
+    height:500px;
+}
+#nextbutton{
+    background-color:aqua;
+    width:55px;
+    height:25px;
+    font-size:large;
+}
